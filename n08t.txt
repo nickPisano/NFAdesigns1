@@ -1,0 +1,13 @@
+Language 8: starts with 01 and ends with 10
+
+ACCEPT:
+0110
+01010
+01110
+010110
+
+REJECT:
+01
+10
+011
+11010

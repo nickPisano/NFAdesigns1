@@ -1,0 +1,13 @@
+Language 6: starts with 10
+
+ACCEPT:
+10
+100
+101
+1011
+
+REJECT:
+0
+1
+01
+110

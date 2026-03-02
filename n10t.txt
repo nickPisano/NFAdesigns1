@@ -1,0 +1,13 @@
+Language 10: no substring 10
+
+ACCEPT:
+0
+1
+11
+001111
+
+REJECT:
+10
+110
+010
+1010

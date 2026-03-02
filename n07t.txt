@@ -1,0 +1,13 @@
+Language 7: ends with 10
+
+ACCEPT:
+10
+110
+010
+0010
+
+REJECT:
+0
+1
+101
+011

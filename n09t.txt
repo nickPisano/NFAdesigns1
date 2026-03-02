@@ -1,0 +1,13 @@
+Language 9: contains 10
+
+ACCEPT:
+10
+110
+0100
+00101
+
+REJECT:
+0
+1
+0111
+0000

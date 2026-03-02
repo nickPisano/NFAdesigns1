@@ -1,0 +1,13 @@
+Language 11: 2nd to last bit is 1
+
+ACCEPT:
+10
+11
+110
+011
+
+REJECT:
+00
+01
+100
+0010
